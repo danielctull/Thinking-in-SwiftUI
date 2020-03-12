@@ -29,7 +29,6 @@ extension Metadata {
             request: URLRequest(url: download_url),
             transform: { try Image(data: $0.data) })
     }
-
 }
 
 extension Image {
