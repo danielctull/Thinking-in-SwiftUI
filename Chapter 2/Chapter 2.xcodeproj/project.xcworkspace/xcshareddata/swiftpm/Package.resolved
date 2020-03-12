@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PublisherView",
+        "repositoryURL": "git@github.com:danielctull/PublisherView.git",
+        "state": {
+          "branch": "master",
+          "revision": "0ed68b720964ae9dda81123ef0fafcf896e2f18e",
+          "version": null
+        }
+      },
+      {
+        "package": "Resourceful",
+        "repositoryURL": "https://github.com/danielctull/Resourceful",
+        "state": {
+          "branch": null,
+          "revision": "2d1aeeeac539c9133bb326fd29f57ce8e592f508",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
